@@ -6,3 +6,5 @@
 Open WolframAlpha.exe.
 #### Method 2
 Create a shortcut to WolframAlpha.exe and open it.
+### Getting answers
+Do I really need to explain?
