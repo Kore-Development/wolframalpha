@@ -1,6 +1,13 @@
 # WolframAlpha as a Windows app
 ##### I do not own WolframAlpha. I only created a Windows app for it.
 ##### Created using [jiahaog/nativefier](https://github.com/jiahaog/nativefier).
+## Installation
+#### Step 1
+Download this repository.
+#### Step 2
+Unzip the zip file.
+#### Step 3
+Look at the usage.
 ## Usage
 ### Opening
 #### Method 1
