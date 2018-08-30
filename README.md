@@ -3,7 +3,7 @@
 ##### Created using [jiahaog/nativefier](https://github.com/jiahaog/nativefier).
 ## Installation
 #### Step 1
-Download this repository.
+[Download by clicking here.](https://github.com/Kore-Development/wolframalpha/archive/windows.zip)
 #### Step 2
 Unzip the zip file.
 #### Step 3
