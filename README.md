@@ -1,5 +1,6 @@
 # WolframAlpha as a Windows app
 ##### I do not own WolframAlpha. I only created a Windows app for it.
+##### Created using jiahaog/nativefier.
 ## Usage
 ### Opening
 #### Method 1
