@@ -1,6 +1,6 @@
 # WolframAlpha as a Windows app
 ##### I do not own WolframAlpha. I only created a Windows app for it.
-##### Created using [!jiahaog/nativefier]https://github.com/jiahaog/nativefier[].
+##### Created using [jiahaog/nativefier](https://github.com/jiahaog/nativefier).
 ## Usage
 ### Opening
 #### Method 1
