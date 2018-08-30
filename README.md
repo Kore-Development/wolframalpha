@@ -1,1 +1,1 @@
-# Please go to the gh-pages or windows branch
+# WolframAlpha as a Windows app
